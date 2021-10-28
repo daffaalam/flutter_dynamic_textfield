@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class HomeDialog extends StatelessWidget {
-  const HomeDialog({Key? key}) : super(key: key);
+class ExampleDialog extends StatelessWidget {
+  const ExampleDialog({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
